@@ -1,4 +1,4 @@
-# Mahsa Hajirahimi
+# Hi, I'm Mahsa!
 
 B.Sc. Computer Engineering student at **Sharif University of Technology**.
 
