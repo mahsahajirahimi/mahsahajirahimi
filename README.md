@@ -1,16 +1,19 @@
-## Hi there 👋
+# Mahsa Hajirahimi
 
-<!--
-**mahsahajirahimi/mahsahajirahimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Sc. Computer Engineering student at **Sharif University of Technology**.
 
-Here are some ideas to get you started:
+My main interests are **Software Engineering**, **AI-assisted Software Engineering**, and **Software Architecture**. I am currently working on my undergraduate thesis on **LLM-based agent support for Situational Method Engineering**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Interests
+- Software Engineering
+- LLM-based Software Engineering
+- Software Architecture
+- Business Process Management
+
+### Tech Stack
+`TypeScript` · `JavaScript` · `Python` · `Java` · `C#`  
+`React` · `Django` · `FastAPI` · `Spring Boot` · `.NET Core`  
+`PostgreSQL` · `MongoDB` · `Camunda` · `Docker`
+
+### Contact
+[LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:mahsahajirahimi2003@gmail.com)
